@@ -1,0 +1,6 @@
+E:\Company_Task\ExamplePractice_Mvc\Exmples\bin\Debug\Exmples.dll
+E:\Company_Task\ExamplePractice_Mvc\Exmples\bin\Debug\Exmples.pdb
+E:\Company_Task\ExamplePractice_Mvc\Exmples\obj\Debug\Exmples.csprojAssemblyReference.cache
+E:\Company_Task\ExamplePractice_Mvc\Exmples\obj\Debug\Exmples.csproj.CoreCompileInputs.cache
+E:\Company_Task\ExamplePractice_Mvc\Exmples\obj\Debug\Exmples.dll
+E:\Company_Task\ExamplePractice_Mvc\Exmples\obj\Debug\Exmples.pdb
